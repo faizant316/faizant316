@@ -49,7 +49,7 @@ Replaced booking-by-DM with a real platform. Built solo, from client discovery t
 - ⚙️ Next.js 14 · Supabase (Postgres, Auth, Storage) · Stripe · Resend · Vercel
 - 📊 49 API routes · 550+ commits · Lighthouse 95+ on desktop
 
-### [Wedded](https://github.com/wedded-app/Wedded) · Co-Founder
+### [Wedded](https://github.com/wedded-app/Wedded) · Co-Founder (IN PROGRESS)
 
 Bilingual (English/Punjabi) wedding planning app for iOS, Android and web.
 
