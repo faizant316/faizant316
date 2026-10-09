@@ -89,6 +89,6 @@ Bilingual (English/Punjabi) wedding planning app for iOS, Android and web.
 
 ## Resume
 
-<a href="Faizan_Tariq_Resume_Updated.pdf">
+<a href="Faizan_Tariq_Resume.pdf">
 <strong>📄 View My Resume</strong>
 </a>
